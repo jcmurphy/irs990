@@ -14,6 +14,7 @@ header,Org527Ind,2016v3.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2016v3.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2016v3.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2016v3.0,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
+header,AddressLine2,2016v3.0,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,City,2016v3.0,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2016v3.0,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
 header,Zip,2016v3.0,Return/ReturnData/IRS990/USAddress/ZIPCd
@@ -38,7 +39,10 @@ part_vi,WBPolicy,2016v3.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2016v3.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2016v3.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2016v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -97,6 +101,7 @@ header,Org527Ind,2016v2.1,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2016v2.1,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2016v2.1,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2016v2.1,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
+header,AddressLine2,2016v2.1,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,City,2016v2.1,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2016v2.1,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
 header,Zip,2016v2.1,Return/ReturnData/IRS990/USAddress/ZIPCd
@@ -121,7 +126,10 @@ part_vi,WBPolicy,2016v2.1,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2016v2.1,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2016v2.1,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2016v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -180,6 +188,7 @@ header,Org527Ind,2016v2.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2016v2.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2016v2.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2016v2.0,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
+header,AddressLine2,2016v2.0,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,City,2016v2.0,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2016v2.0,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
 header,Zip,2016v2.0,Return/ReturnData/IRS990/USAddress/ZIPCd
@@ -204,7 +213,10 @@ part_vi,WBPolicy,2016v2.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2016v2.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2016v2.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2016v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -263,6 +275,7 @@ header,Org527Ind,2015v3.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2015v3.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2015v3.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2015v3.0,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
+header,AddressLine2,2015v3.0,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,City,2015v3.0,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2015v3.0,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
 header,Zip,2015v3.0,Return/ReturnData/IRS990/USAddress/ZIPCd
@@ -287,7 +300,10 @@ part_vi,WBPolicy,2015v3.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2015v3.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2015v3.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2015v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -346,6 +362,7 @@ header,Org527Ind,2015v2.1,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2015v2.1,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2015v2.1,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2015v2.1,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
+header,AddressLine2,2015v2.1,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,City,2015v2.1,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2015v2.1,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
 header,Zip,2015v2.1,Return/ReturnData/IRS990/USAddress/ZIPCd
@@ -370,7 +387,10 @@ part_vi,WBPolicy,2015v2.1,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2015v2.1,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2015v2.1,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2015v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -429,6 +449,7 @@ header,Org527Ind,2015v2.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2015v2.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2015v2.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2015v2.0,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
+header,AddressLine2,2015v2.0,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,City,2015v2.0,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2015v2.0,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
 header,Zip,2015v2.0,Return/ReturnData/IRS990/USAddress/ZIPCd
@@ -453,7 +474,10 @@ part_vi,WBPolicy,2015v2.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2015v2.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2015v2.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2015v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -512,6 +536,7 @@ header,Org527Ind,2014v6.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2014v6.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2014v6.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2014v6.0,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
+header,AddressLine2,2014v6.0,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,City,2014v6.0,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2014v6.0,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
 header,Zip,2014v6.0,Return/ReturnData/IRS990/USAddress/ZIPCd
@@ -536,7 +561,10 @@ part_vi,WBPolicy,2014v6.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2014v6.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2014v6.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2014v6.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -594,6 +622,7 @@ header,Org4947a1,2014v5.0,Return/ReturnData/IRS990/Organization4947a1NotPFInd
 header,Org527Ind,2014v5.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2014v5.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2014v5.0,Return/ReturnData/IRS990/PrincipalOfficerNm
+header,AddressLine2,2014v5.0,Return/ReturnData/IRS990/USAddress/AddressLine2Txt
 header,AddressLine1,2014v5.0,Return/ReturnData/IRS990/USAddress/AddressLine1Txt
 header,City,2014v5.0,Return/ReturnData/IRS990/USAddress/CityNm
 header,State,2014v5.0,Return/ReturnData/IRS990/USAddress/StateAbbreviationCd
@@ -619,7 +648,10 @@ part_vi,WBPolicy,2014v5.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2014v5.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2014v5.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt
+part_vi,BooksBusNm2,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt
 part_vi,BooksAddressLine1,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1Txt
+part_vi,BooksAddressLine2,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2Txt
 part_vi,BooksCity,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/CityNm
 part_vi,BooksState,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/StateAbbreviationCd
 part_vi,BooksZip,2014v5.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIPCd
@@ -678,6 +710,7 @@ header,Org527Ind,2013v4.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2013v4.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2013v4.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2013v4.0,Return/ReturnData/IRS990/USAddress/AddressLine1
+header,AddressLine2,2013v4.0,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,City,2013v4.0,Return/ReturnData/IRS990/USAddress/City
 header,State,2013v4.0,Return/ReturnData/IRS990/USAddress/State
 header,Zip,2013v4.0,Return/ReturnData/IRS990/USAddress/ZIPCode
@@ -702,7 +735,10 @@ part_vi,WBPolicy,2013v4.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2013v4.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2013v4.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
 part_vi,BooksNm,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2013v4.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
@@ -761,6 +797,7 @@ header,Org527Ind,2013v3.1,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2013v3.1,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2013v3.1,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2013v3.1,Return/ReturnData/IRS990/USAddress/AddressLine1
+header,AddressLine2,2013v3.1,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,City,2013v3.1,Return/ReturnData/IRS990/USAddress/City
 header,State,2013v3.1,Return/ReturnData/IRS990/USAddress/State
 header,Zip,2013v3.1,Return/ReturnData/IRS990/USAddress/ZIPCode
@@ -784,7 +821,11 @@ part_vi,COIPolicy,2013v3.1,Return/ReturnData/IRS990/ConflictOfInterestPolicyInd
 part_vi,WBPolicy,2013v3.1,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2013v3.1,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2013v3.1,Return/ReturnData/IRS990/CompensationProcessCEOInd
+part_vi,BooksNm,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2013v3.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
@@ -843,6 +884,7 @@ header,Org527Ind,2013v3.0,Return/ReturnData/IRS990/Organization527Ind
 header,FormYr,2013v3.0,Return/ReturnData/IRS990/FormationYr
 header,PrincipalOfficerNm,2013v3.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2013v3.0,Return/ReturnData/IRS990/USAddress/AddressLine1
+header,AddressLine2,2013v3.0,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,City,2013v3.0,Return/ReturnData/IRS990/USAddress/City
 header,State,2013v3.0,Return/ReturnData/IRS990/USAddress/State
 header,Zip,2013v3.0,Return/ReturnData/IRS990/USAddress/ZIPCode
@@ -866,7 +908,11 @@ part_vi,COIPolicy,2013v3.0,Return/ReturnData/IRS990/ConflictOfInterestPolicyInd
 part_vi,WBPolicy,2013v3.0,Return/ReturnData/IRS990/WhistleblowerPolicyInd
 part_vi,DocRetPolicy,2013v3.0,Return/ReturnData/IRS990/DocumentRetentionPolicyInd
 part_vi,CeoCompProc,2013v3.0,Return/ReturnData/IRS990/CompensationProcessCEOInd
+part_vi,BooksNm,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2013v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
@@ -924,6 +970,7 @@ header,Org4947a1,2012v3.0,Return/ReturnData/IRS990/Organization4947a1
 header,Org527Ind,2012v3.0,Return/ReturnData/IRS990/Organization527
 header,FormYr,2012v3.0,Return/ReturnData/IRS990/YearFormation
 header,PrincipalOfficerNm,2012v3.0,Return/ReturnData/IRS990/PrincipalOfficerNm
+header,AddressLine2,2012v3.0,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,AddressLine1,2012v3.0,Return/ReturnData/IRS990/USAddress/AddressLine1
 header,City,2012v3.0,Return/ReturnData/IRS990/USAddress/City
 header,State,2012v3.0,Return/ReturnData/IRS990/USAddress/State
@@ -948,7 +995,11 @@ part_vi,COIPolicy,2012v3.0,Return/ReturnData/IRS990/ConflictOfInterestPolicy
 part_vi,WBPolicy,2012v3.0,Return/ReturnData/IRS990/WhistleblowerPolicy
 part_vi,DocRetPolicy,2012v3.0,Return/ReturnData/IRS990/DocumentRetentionPolicy
 part_vi,CeoCompProc,2012v3.0,Return/ReturnData/IRS990/CompensationProcessCEO
+part_vi,BooksNm,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2012v3.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
@@ -1007,6 +1058,7 @@ header,Org527Ind,2012v2.3,Return/ReturnData/IRS990/Organization527
 header,FormYr,2012v2.3,Return/ReturnData/IRS990/YearFormation
 header,PrincipalOfficerNm,2012v2.3,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2012v2.3,Return/ReturnData/IRS990/USAddress/AddressLine1
+header,AddressLine2,2012v2.3,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,City,2012v2.3,Return/ReturnData/IRS990/USAddress/City
 header,State,2012v2.3,Return/ReturnData/IRS990/USAddress/State
 header,Zip,2012v2.3,Return/ReturnData/IRS990/USAddress/ZIPCode
@@ -1030,7 +1082,11 @@ part_vi,COIPolicy,2012v2.3,Return/ReturnData/IRS990/ConflictOfInterestPolicy
 part_vi,WBPolicy,2012v2.3,Return/ReturnData/IRS990/WhistleblowerPolicy
 part_vi,DocRetPolicy,2012v2.3,Return/ReturnData/IRS990/DocumentRetentionPolicy
 part_vi,CeoCompProc,2012v2.3,Return/ReturnData/IRS990/CompensationProcessCEO
+part_vi,BooksNm,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2012v2.3,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
@@ -1089,6 +1145,7 @@ header,Org527Ind,2012v2.2,Return/ReturnData/IRS990/Organization527
 header,FormYr,2012v2.2,Return/ReturnData/IRS990/YearFormation
 header,PrincipalOfficerNm,2012v2.2,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2012v2.2,Return/ReturnData/IRS990/USAddress/AddressLine1
+header,AddressLine2,2012v2.2,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,City,2012v2.2,Return/ReturnData/IRS990/USAddress/City
 header,State,2012v2.2,Return/ReturnData/IRS990/USAddress/State
 header,Zip,2012v2.2,Return/ReturnData/IRS990/USAddress/ZIPCode
@@ -1112,7 +1169,11 @@ part_vi,COIPolicy,2012v2.2,Return/ReturnData/IRS990/ConflictOfInterestPolicy
 part_vi,WBPolicy,2012v2.2,Return/ReturnData/IRS990/WhistleblowerPolicy
 part_vi,DocRetPolicy,2012v2.2,Return/ReturnData/IRS990/DocumentRetentionPolicy
 part_vi,CeoCompProc,2012v2.2,Return/ReturnData/IRS990/CompensationProcessCEO
+part_vi,BooksNm,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2012v2.2,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
@@ -1171,6 +1232,7 @@ header,Org527Ind,2012v2.1,Return/ReturnData/IRS990/Organization527
 header,FormYr,2012v2.1,Return/ReturnData/IRS990/YearFormation
 header,PrincipalOfficerNm,2012v2.1,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2012v2.1,Return/ReturnData/IRS990/USAddress/AddressLine1
+header,AddressLine2,2012v2.1,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,City,2012v2.1,Return/ReturnData/IRS990/USAddress/City
 header,State,2012v2.1,Return/ReturnData/IRS990/USAddress/State
 header,Zip,2012v2.1,Return/ReturnData/IRS990/USAddress/ZIPCode
@@ -1194,7 +1256,11 @@ part_vi,COIPolicy,2012v2.1,Return/ReturnData/IRS990/ConflictOfInterestPolicy
 part_vi,WBPolicy,2012v2.1,Return/ReturnData/IRS990/WhistleblowerPolicy
 part_vi,DocRetPolicy,2012v2.1,Return/ReturnData/IRS990/DocumentRetentionPolicy
 part_vi,CeoCompProc,2012v2.1,Return/ReturnData/IRS990/CompensationProcessCEO
+part_vi,BooksNm,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2012v2.1,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
@@ -1253,6 +1319,7 @@ header,Org527Ind,2012v2.0,Return/ReturnData/IRS990/Organization527
 header,FormYr,2012v2.0,Return/ReturnData/IRS990/YearFormation
 header,PrincipalOfficerNm,2012v2.0,Return/ReturnData/IRS990/PrincipalOfficerNm
 header,AddressLine1,2012v2.0,Return/ReturnData/IRS990/USAddress/AddressLine1
+header,AddressLine2,2012v2.0,Return/ReturnData/IRS990/USAddress/AddressLine2
 header,City,2012v2.0,Return/ReturnData/IRS990/USAddress/City
 header,State,2012v2.0,Return/ReturnData/IRS990/USAddress/State
 header,Zip,2012v2.0,Return/ReturnData/IRS990/USAddress/ZIPCode
@@ -1276,7 +1343,11 @@ part_vi,COIPolicy,2012v2.0,Return/ReturnData/IRS990/ConflictOfInterestPolicy
 part_vi,WBPolicy,2012v2.0,Return/ReturnData/IRS990/WhistleblowerPolicy
 part_vi,DocRetPolicy,2012v2.0,Return/ReturnData/IRS990/DocumentRetentionPolicy
 part_vi,CeoCompProc,2012v2.0,Return/ReturnData/IRS990/CompensationProcessCEO
+part_vi,BooksNm,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/PersonNm
+part_vi,BooksBusNm1,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine1
+part_vi,BooksBusNm2,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/BusinessName/BusinessNameLine2
 part_vi,BooksAddressLine1,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine1
+part_vi,BooksAddressLine2,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/AddressLine2
 part_vi,BooksCity,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/City
 part_vi,BooksState,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/State
 part_vi,BooksZip,2012v2.0,Return/ReturnData/IRS990/BooksInCareOfDetail/USAddress/ZIP
