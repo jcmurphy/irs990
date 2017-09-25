@@ -69,7 +69,7 @@ sc = SparkContext()
 session = makeSession()
 
 filings = session.query(Filing)\
-        .filter(Filing.FormType == "990")\
+        .filter(Filing.FormType == "990EZ")\
         .filter(Filing.URL != None)\
         .filter(Filing.raw == None)
 
